@@ -6,7 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
-				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Level/Test.umap"
+				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Level/Test.umap",
+				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_Enemy.uasset",
+				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_EnemySpawner.uasset",
+				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Widget/BP_InteractTower.uasset",
+				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Tower/BP_Placement.uasset",
+				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Goal/BP_Goal.uasset",
+				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Level/_GENERATED/HsarMoo/Cylinder_24DA5E81.uasset",
+				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Widget/hammer.uasset"
 			]
 		}
 	]
