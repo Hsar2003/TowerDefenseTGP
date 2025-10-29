@@ -5,15 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_EnemyAI.uasset",
-				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_Spawner.uasset",
-				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_EnemySpawner.uasset",
-				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Level/Test.umap",
-				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_Spline.uasset",
-				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_Enemy.uasset",
-				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_TestEnemy.uasset",
-				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_EnemySpawns.uasset",
-				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_SplineEnemy.uasset",
 				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Level/Test.umap",
 				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_Enemy.uasset",
@@ -23,7 +14,18 @@
 				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Tower/BP_Placement.uasset",
 				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Goal/BP_Goal.uasset",
 				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Level/_GENERATED/HsarMoo/Cylinder_24DA5E81.uasset",
-				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Widget/hammer.uasset"
+				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Widget/hammer.uasset",
+				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Tower/BP_WizardTower.uasset",
+				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_EnemyAI.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_Spawner.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_EnemySpawner.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Level/Test.umap",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_Spline.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_Enemy.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_TestEnemy.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_EnemySpawns.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_SplineEnemy.uasset"
 			]
 		}
 	]
