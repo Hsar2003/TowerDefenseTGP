@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Tower/BP_Projectile.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Tower/BP_Tower1.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Tower/BPI_Findable.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Tower/BPI_Finder.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_Enemy.uasset",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Test2.umap",
+				"C:/Users/hsar.moo/Documents/GitHub/TowerDefenseTGP/ToyRevolution/Content/Tower/BP_Range.uasset",
 				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Level/Test.umap",
 				"E:/TowerDefense/TowerDefenseTGP/ToyRevolution/Content/Enemy/BP_Enemy.uasset",
